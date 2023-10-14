@@ -13,8 +13,10 @@
 - 如果有可能有生之年, 有一个双向奔赴女友
 
 我的cves
-- SaToken authorization bypass
+- [SaToken](https://github.com/dromara/Sa-Token) authorization bypass
   - [CVE-2023-43961](https://github.com/dromara/Sa-Token/issues/511)
+  - [CVE-2023-44794](https://github.com/dromara/Sa-Token/issues/515)
+- Apache Shiro authenticaion bypass
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-j-j&show_icons=true&theme=merko)   
 ![](https://komarev.com/ghpvc/?username=x-j-j&label=Visitors&color=116262)
